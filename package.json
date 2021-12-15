@@ -1,5 +1,5 @@
 {
-  "name": "@madzadev/image-slider",
+  "name": "@iath/nextslider",
   "version": "1.0.8",
   "description": "React/NextJS image slider component to display images",
   "keywords": [
@@ -8,7 +8,7 @@
     "image",
     "slider"
   ],
-  "author": "Madza <hi@madza.dev> (http://madza.dev)",
+  "author": "Himansh <himansh@codeprops.com> (https://www.codeprops.com)",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   },
   "homepage": "https://image-slider-madza.vercel.app/",
   "bugs": {
-    "url": "https://github.com/madzadev/image-slider/issues"
+    "url": "https://github.com/iamthehimansh/image-slider/issues"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
